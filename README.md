@@ -1,2 +1,2 @@
 # EmbeddedDriverDevelopment
-We'll develop drivers for different peripherals from GPIO ,SPI, I2C 
+We'll develop drivers for different peripherals for GPIO ,SPI, I2C 
